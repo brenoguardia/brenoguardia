@@ -1,8 +1,10 @@
-<img width="1672" height="941" alt="banner" src="https://github.com/user-attachments/assets/f2f4af11-4f71-4114-a0fc-a02ad7c57c26" />
-
 ###
 
 <h1 data-importer="text" align="left">NO STOP CODING 💻🔥</h1>
+
+###
+
+<img width="1672" height="941" alt="banner" src="https://github.com/user-attachments/assets/f2f4af11-4f71-4114-a0fc-a02ad7c57c26" />
 
 ###
 
@@ -19,8 +21,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -45,22 +45,3 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/srGuardia/srGuardia/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=STATS" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/srGuardia/srGuardia/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&custom_title=STACKS" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/srGuardia/srGuardia/trophy-output/trophy.svg?theme=dracula&margin-w=12&margin-h=12&no-bg=false&no-frame=true" height="150" alt="trophy graph"  />
-  <img src="https://raw.githubusercontent.com/srGuardia/srGuardia/activity-graph-output/activity-graph.svg?theme=dracula&area=true" height="150" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
-
-###
